@@ -6,6 +6,12 @@
 
 [English README](README_EN.md)
 
+## 界面截图
+
+![文件命名方式选择](interface-naming-options.png)
+
+可选择保留阿里 CDN 原始文件名，或按 `001、002、003...` 顺序自动编号。
+
 ## 功能
 
 - 一次粘贴几十、几百或更多图片链接
@@ -76,4 +82,3 @@
 ## 许可证
 
 [MIT License](LICENSE)
-

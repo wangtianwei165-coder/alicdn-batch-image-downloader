@@ -6,6 +6,12 @@ A lightweight Windows GUI for downloading image URLs in bulk. Paste a column of 
 
 [中文说明](README.md)
 
+## Interface screenshot
+
+![File naming options](interface-naming-options.png)
+
+Choose between preserving the original AliCDN filename and automatic sequential numbering.
+
 ## Features
 
 - Paste dozens or hundreds of image URLs at once
@@ -62,4 +68,3 @@ The GUI uses Windows Forms and has no external build dependencies.
 ## License
 
 [MIT License](LICENSE)
-
