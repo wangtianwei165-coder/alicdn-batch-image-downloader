@@ -8,9 +8,15 @@ A lightweight Windows GUI for downloading image URLs in bulk. Paste a column of 
 
 ## Interface screenshot
 
-![File naming options](interface-naming-options.png)
+### Ready to download
 
-Choose between preserving the original AliCDN filename and automatic sequential numbering.
+![Application ready screen](app-ready.png)
+
+### Download completed
+
+![Completed batch download](app-download-complete.png)
+
+The interface supports pasting a full column of links, choosing the destination folder and naming mode, configuring retries, and viewing download progress and results.
 
 ## Features
 
